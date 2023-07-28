@@ -13,4 +13,5 @@ int main(void){
     printf("arr[0] : %d\n",sizeof(arr[0]));
     printf("arr[0][0] : %d\n",sizeof(arr[0][0]));
 
+    printf("\n");
 }
